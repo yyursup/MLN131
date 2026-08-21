@@ -137,15 +137,15 @@ export const SCRIPT_SECTIONS: ScriptSection[] = [
     ],
     keyPoints: [
       {
-        title: "Một là: Tập hợp lực lượng xã hội",
+        title: "Tập hợp lực lượng xã hội",
         desc: "Một lực lượng riêng lẻ khó có thể thực hiện những mục tiêu lớn. Cần xây dựng cơ sở xã hội rộng lớn và tránh sự cô lập."
       },
       {
-        title: "Hai là: Liên minh trên cơ sở lợi ích",
+        title: "Liên minh trên cơ sở lợi ích",
         desc: "Liên minh không phải kết hợp cơ học mà phải dựa trên lợi ích chung và sự hài hòa lợi ích giữa các bên."
       },
       {
-        title: "Ba là: Hướng đến mục tiêu chung",
+        title: "Hướng đến mục tiêu chung",
         desc: "Sự liên kết cần tạo thành sức mạnh tổng hợp để thực hiện các mục tiêu chính trị, kinh tế và xã hội chung."
       }
     ]
